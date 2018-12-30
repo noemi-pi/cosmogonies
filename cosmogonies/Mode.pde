@@ -1,0 +1,3 @@
+enum Mode{
+  WAVE, BUBBLE, SUN, MOON, ERASER, ANCHOR, SCALE, NONE
+}
